@@ -1,7 +1,7 @@
 # 🔍 Deepfake Detection using Frequency Domain Analysis
 
 ## 🎯 Research Context
-This project addresses the growing challenge of AI-generated media by detecting frequency-domain artifacts invisible to the human eye. Deepfake generation and re-compression leave distinct patterns in the DCT coefficient distribution that standard CNNs miss.
+This project addresses the growing challenge of AI-generated media by detecting frequency-domain artifacts invisible to the human eye. Deepfake generation and re-compression leave distinct patterns in the DCT coefficient distribution that standard CNNs miss[citation:8][citation:11].
 
 ## 🧠 Methodology
 - **Dual-Branch Architecture:** Spatial (EfficientNet-B0) + Frequency (DCT feature extraction)
